@@ -6,7 +6,7 @@
    🇪🇸 🇷🇺 🇬🇧 
 </p>
 
-## Connect with me
+## Connect with me 📩
 
 [<img align="left" alt="arnabdey.co" width="30px" src="./images/globe.svg" />][website]
 [<img align="left" alt="arnabdey0503 | Twitter" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" />][twitter]
@@ -16,13 +16,16 @@
 <br />
 <br />
 
-## My experience
+## My experience 👩🏼‍🎓
 
-I have previously been a WordPress web developer.
+I have previously been a WordPress web developer. From a design I do all the layout in HTML5 being very detailed and at a very optimal semantic level for SEO. I work CSS Cross-browser using Sass, Flexbox, Grid Layout and all the news that are standardized.
 
-Now, I'm focused on the Front world learning JavaScript, React, TypeScript, and Tests with JEST, Testing Library, and Cypress.
+For 2 years, I have been focused on the Front world learning JavaScript, React, TypeScript and Tests with JEST, Testing Library and Cypress.
+
+I am constantly evolving and learning.
+
  
-## Languages and tools in my day to day
+## Languages and tools in my day to day 👩🏼‍💻 
 
 [<img align="left" alt="JavaScript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>][github]
 [<img align="left" alt="React" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/>][github]
@@ -38,7 +41,7 @@ Now, I'm focused on the Front world learning JavaScript, React, TypeScript, and 
 <br />
 <br />
 
-## Latest projects in React
+## Latest projects in React ⚛️ 
 
 <a href='https://todo-app-in-react-with-typescript.netlify.app/' target='_blank'>
    <img width='30%' src='https://repository-images.githubusercontent.com/332737798/23d08c00-66d1-11eb-880a-2d0b3317f86b' alt='Application developed in React with      TypeScript. It contains unit tests with JEST, integration tests with Testing Library and End to End tests with Cypress.' />
@@ -70,11 +73,11 @@ Now, I'm focused on the Front world learning JavaScript, React, TypeScript, and 
 
 ##### Project developed in React with consultation of the Airtable database. Using Hooks for component life cycle and health management. React-router. And I also use the react-fontawesome library.
  
-[And more here](https://github.com/natassh)
+📌 [And more here](https://github.com/natassh)
 
 <br />
 
-## Latest projects in WordPress
+## Latest projects in WordPress 🌐
 
 - [Solarpack](https://www.solarpack.es/)
 - [Suminis](https://suminis.com/)
@@ -82,7 +85,7 @@ Now, I'm focused on the Front world learning JavaScript, React, TypeScript, and 
 - [CAF Turnkey & Engineering](https://www.cafte.com/)
 - [Forest Trafic](https://forest-trafic.com/)
 
-## More about me
+## More about me 🔑
 
 - ✅  I like a job well done.
 - 🕐  Comply with deadlines.
