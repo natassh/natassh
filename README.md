@@ -19,6 +19,7 @@
 ## My experience
 
 I have previously been a WordPress web developer.
+
 Now, I'm focused on the Front world learning JavaScript, React, TypeScript, and Tests with JEST, Testing Library, and Cypress.
  
 ## Languages and tools in my day to day
