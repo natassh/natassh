@@ -43,6 +43,14 @@ I am constantly evolving and learning.
 
 ## Latest projects in React ⚛️ 
 
+<a href='https://jobs-app-react-typescript-test.netlify.app/' target='_blank'>
+   <img width='30%' src='https://repository-images.githubusercontent.com/337005107/53bc8980-72a4-11eb-82ba-8d59f6bb443b' alt='Application developed in React with      TypeScript. It contains unit tests with JEST, integration tests with Testing Library and End to End tests with Cypress.' />
+</a>
+
+##### Aplicación desarrollada en React con TypeScript donde listo ofertas laborales de la api de GitHub. Contiene tests unitarios con JEST, test de integración con Testing Library y test End to End con Cypress. 
+
+<br />
+
 <a href='https://todo-app-in-react-with-typescript.netlify.app/' target='_blank'>
    <img width='30%' src='https://repository-images.githubusercontent.com/332737798/23d08c00-66d1-11eb-880a-2d0b3317f86b' alt='Application developed in React with      TypeScript. It contains unit tests with JEST, integration tests with Testing Library and End to End tests with Cypress.' />
 </a>
