@@ -47,7 +47,7 @@ I am constantly evolving and learning.
    <img width='30%' src='https://repository-images.githubusercontent.com/337005107/53bc8980-72a4-11eb-82ba-8d59f6bb443b' alt='Application developed in React with      TypeScript. It contains unit tests with JEST, integration tests with Testing Library and End to End tests with Cypress.' />
 </a>
 
-##### Aplicación desarrollada en React con TypeScript donde listo ofertas laborales de la api de GitHub. Contiene tests unitarios con JEST, test de integración con Testing Library y test End to End con Cypress. 
+##### Application developed in React with TypeScript where I list job offers from the GitHub api. It contains unit tests with JEST, integration tests with Testing Library and End to End tests with Cypress. 
 
 <br />
 
