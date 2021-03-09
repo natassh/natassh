@@ -72,6 +72,14 @@ I am constantly evolving and learning.
 </a>
 
 ##### Project developed in React with consultation of the Airtable database. Using Hooks for component life cycle and health management. React-router. And I also use the react-fontawesome library.
+
+<br />
+ 
+<a href='https://testimonials-app-with-react.netlify.app/' target='_blank'>
+     <img width='30%' src='https://repository-images.githubusercontent.com/343747819/ecce0b80-80be-11eb-960f-eac636ba74d0' alt='Application developed in React with TypeScript. Use grid for layout. It contains unit tests with JEST, integration tests with Testing Library and End to End tests with Cypress.' />
+</a>
+
+##### Project developed in React with TypeScript.  Use grid for layout.
  
 📌 [And more here](https://github.com/natassh)
 
