@@ -1,5 +1,5 @@
 <p align="center" width="400">
-   <img align="center" width="300" src="./images/Natacha.ai" />
+   <img align="center" width="300" src="./images/Natacha_1.svg" />
     <h1 align="center" >✨✨ Hi, I'm Natacha and I'm a Frontend Developer ✨✨</h1>
 </p>
 <p align="center" width="400">
