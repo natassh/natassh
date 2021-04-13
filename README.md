@@ -79,7 +79,7 @@ I am constantly evolving and learning.
      <img width='30%' src='https://repository-images.githubusercontent.com/215990279/e4f0a500-3c39-11ea-8c39-2a99d6f0b059' alt='Application developed in React with TypeScript. It contains unit tests with JEST, integration tests with Testing Library and End to End tests with Cypress.' />
 </a>
 
-##### Project developed in React with consultation of the Airtable database. Using Hooks for component life cycle and health management. React-router. And I also use the react-fontawesome library.
+##### I move to React a project developed with JavaScript where I use react-router, local state management, Class-type Components (playing with the state) and Functional Components. I also use 2 third party libraries, react-select and marvina-carousel-react.
 
 <br />
  
