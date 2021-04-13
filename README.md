@@ -82,6 +82,14 @@ I am constantly evolving and learning.
 ##### I move to React a project developed with JavaScript where I use react-router, local state management, Class-type Components (playing with the state) and Functional Components. I also use 2 third party libraries, react-select and marvina-carousel-react.
 
 <br />
+
+<a href='https://natacha-test-playtomic.netlify.app/' target='_blank'>
+     <img width='30%' src='https://repository-images.githubusercontent.com/348275092/0d88f580-9b84-11eb-9fcc-50223ed4a802' alt='application is developed with React and TypeScript using the CRA boilerplate.' />
+</a>
+
+##### The application is developed with React and TypeScript using the CRA boilerplate. At the login system I have used Firebase, the authentication part with the username and password. Another important part of this project is the management of the state, which I have managed with Redux. 
+
+<br />
  
 <a href='https://testimonials-app-with-react.netlify.app/' target='_blank'>
      <img width='30%' src='https://repository-images.githubusercontent.com/343747819/ecce0b80-80be-11eb-960f-eac636ba74d0' alt='Application developed in React with TypeScript. Use grid for layout. It contains unit tests with JEST, integration tests with Testing Library and End to End tests with Cypress.' />
