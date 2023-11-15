@@ -121,10 +121,9 @@ I am constantly evolving and learning.
 - 💃  Enjoy working.
 
 
-<p align="left" >
-   <img   alt="natassh Github Stats" src="https://github-readme-stats.vercel.app/api?username=natassh&show_icons=true&hide_border=true&theme=buefy" />
-   <img    alt="natassh Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natassh&layout=compact&theme=buefy" />
-</p>
+   <img alt="natassh Github Stats" src="https://github-readme-stats.vercel.app/api?username=natassh&show_icons=true&hide_border=true&theme=buefy" />
+   <img alt="natassh Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natassh&layout=compact&theme=buefy" />
+
 
 #### ❤️   Thanks for reading about me
 
